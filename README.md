@@ -1,6 +1,6 @@
-This Program Makes A Beautiful Model For You With Colored Circles
+This Program Makes A Beautiful Model For You With Colored Circles.
 
-Generate Colored Circles With Python
+Generate Colored Circles With Python.
 
 Programming Language ===> Python
 
