@@ -1,4 +1,4 @@
-Program name : Generate Colored Circles
+Program Name : Generate Colored Circles
 
 This Program Makes A Beautiful Model For You With Colored Circles.
 
