@@ -6,7 +6,7 @@ Generate Colored Circles With Python.
 
 Programming Language ===> Python
 
-Required packages For Python
+Required Python packages for this program
 
 turtle ===> To Install => pip install turtle
 
