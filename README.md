@@ -10,6 +10,6 @@ Required Python packages for this program
 
 turtle ===> To Install => pip install turtle
 
-To Run the program ===> python circle.py
+To Run The program ===> python circle.py
 
 # Finish 
